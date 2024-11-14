@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "proyeto-larreta",
+  "private_key_id": "f1a76bfd3fdcb2713fea233022830b897bb039e1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDxQOBPIcF20/dH\nhMCli8424oMXA4EC+clXHdDtXGqSyrkEE25Q5vbEEKV634cxOYJWRlwHzr07dh/t\nzLqXat9Gz1uN0hWXywWAGgUvHOPd2QMqKvJlPIRBbPN7i3f6cmQAN19s3inThs/l\nVK5pFS2xoOYkyv7i5yu/Wklfk8LM1hq4S2lqql02JOP6kCTZF723K0kJXRIGcZHy\nqSDoCNlyHiM1L32mPRP1nJJtKS84a1BHaHhTaaJF4EiBXHM6Y1aiCH0xYXQWgur4\n61lD+xVxSGjfU/FurixrAcv4sKjtnSDqJcnHsdrnomi349f777vSEqgaU73+utmX\nsWNoBbdHAgMBAAECggEAEzfce9vv3MFslLvp2huAT+BMxQvjE75GNbRgV6g3An6N\nAoVxvOweguaN6B3frSIsVHxtCbTZtN+SEjrEL8UJsvWtu2cdj+ansi61yaz+0fC0\nTyr1/Zk2h+e1SwWEhzo5kR2Cx9oNcZZEVWZ2MP9zkQ+E2zAjNya8gL/L0dtOzKD8\nuRtG8oLvAn0MpcmBvuKTOYaojCL61nd8+WeYWJtYV/Gcckbn4M1ILWQCdKaWTqRF\nxO1RKBPIzLzjpXZ491zzEKyiOfVFlodqZJWYzt6VEJEoQTyTMTjsFta+p/kt4BTn\nrmJ76xvDg8UtO3GeT/QE+eDeNsCfAmVj/T/c5XetIQKBgQD4qveSZqB8/n68tuCR\nQxp3ArUPvfwir3Oqd6epmUtmT0i7pLCbSLATseB48I14/7+bak0FdTfxvBU9l/5X\ngTKd70iNKTzS0SOqiua0px7B9KniYYQFSXUjQlBDCBxSlrEH8VQ/UhP0yJRDJL4T\nYxtr6RHm8n7xR3hRKS0mTK6ymQKBgQD4XfFGb4f0SPjex/HD4iSIPp4zZ2KN6pLn\nE72tkGXbla2JHEeYyxKf9TPrCKLjsvhxoC8f1LNMJwzUdul63G9V7PyI1M+PAbf+\nfir0F+e9BWLCZNx8vu2nADbfNSwgiM1yBfO4aOIPmIhDKXuG/wlbKSZHXntN9Q7l\nRjdgP9PE3wKBgHk1lPG2tpnWz14bYkFMTTUfi7Q9rg4WKbI5Gu+vejJHiTN15mP6\nvWEMPleVIdCOEQ6ndR2o8nkRbeUVFnP+1PZo8ZtlM3GrYdA6XpRGNdbi9IAVem29\nTay/ITJbXLrhGy+88Yzf7DxQHPzRhxkaIP6rn/9Lypa/eKVPBeP6UtlZAoGBANBU\nHFn0m5lwzDAyjry8J+CQhaqgga6AoJBroqK/iHDT8CgeLIAhdpHt34q6R8evC25j\n6qNMisjJyJ0+0UFZPZpZmso7l45g5rD1q5nro1qN9fURHVEV5co7B8vakhUIKywF\nihWZBGYIj+OmHBN0QajRr2YV/l+5urDeYPy/DScJAoGAPrOlbxp6Ko6Umdg6E94e\n/lCTPLsZHU9iMOHEW5GuKUU9yheg2mj0idt6Edxw/sqpmSsEm1lQOsqUCEA5jGDe\nFm9EN+mR52JdddbHXh40345uG9H1C/o28MiUXedH2mSM+GZZy8OH+Yf8k4WbweOv\nFrzdp3HBvT4Cvlc+5b+QxRM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "administrador@proyeto-larreta.iam.gserviceaccount.com",
+  "client_id": "118259601805384862726",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/administrador%40proyeto-larreta.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
